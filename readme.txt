@@ -3,5 +3,9 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 1
 2
+<<<<<<< HEAD
 
 4
+=======
+5
+>>>>>>> feature1
